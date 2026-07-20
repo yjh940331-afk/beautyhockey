@@ -53,7 +53,9 @@ beautyhockey/
 │   ├── daily_log.md
 │   └── weekly_review.md
 └── logs/
-    └── 2026-W28.md                  ← 이번 주 (첫 주)
+    ├── 2026-W28.md                  ← 첫 주 기록
+    ├── 2026-W29.md                  ← 음주 및 회복 기록
+    └── 2026-W30.md                  ← 이번 주 기록
 ```
 
 ## 🔁 운영 방법
