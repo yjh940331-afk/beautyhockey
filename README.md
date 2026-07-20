@@ -47,7 +47,8 @@ beautyhockey/
 │   ├── 04_supplements.md            ← 보충제 타이밍 + 운영 룰
 │   ├── 05_skin_appearance.md        ← 피부/선크림(햇빛알러지)/입병
 │   ├── 06_decision_rules.md         ← 5대 원칙 + 무릎 프로토콜 + 트래픽 라이트 + 충돌 판정
-│   └── 07_references.md             ← 근거 자료
+│   ├── 07_references.md             ← 근거 자료
+│   └── 08_skin_guide_2026-07.md      ← 피부 상태 + 제품 루틴 + 여드름/시술 단계
 ├── templates/
 │   ├── daily_log.md
 │   └── weekly_review.md
